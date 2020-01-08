@@ -1,0 +1,7 @@
+[
+  {
+    "ele": "color-picker",
+    "path": "src/components/color-picker/color.main.js"
+  },
+  { "ele": "my-form", "path": "src/components/my-form/my-form.main.js" }
+]
